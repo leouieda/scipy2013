@@ -53,7 +53,7 @@ into existing pipelines.
 Plus,
 because functions
 inside Fatiando a Terra use
-a common data and mesh format
+a common data and mesh format,
 existing algorithms
 can be combined
 and new ideas can
@@ -92,25 +92,24 @@ etc).
 ## Author Bios
 
 **Leonardo Uieda**
-has a Bachelor's
-and Master's degree
-in Geophysics.
-Has developed
+is a PhD student of Geophysics
+at the Observatorio Nacional, Brazil,
+where he develops
 open-source software
-for geophysical modeling
-throughout his Bachelor's,
-Master's,
-and current PhD
-at the Observatorio Nacional, Brazil.
+for geophysical modeling and inversion.
 In 2010,
-started the development of
-Fatiando a Terra
+he started the development
+of Fatiando a Terra
 as a way to test and explore
-things learned in the class room
-and scholarly articles.
+things learned in the class room and scholarly articles.
 
 **Vanderlei C. Oliveira Jr**
-
+obtained a PhD in Geophysics at the Observatório Nacional, Brazil,
+with emphasis in potential field methods
+(gravity and magnetics) and inverse problems.
+He is currently developing
+methods for processing and
+inverting potential field data.
 
 **Valéria C. F. Barbosa**
 is a researcher at

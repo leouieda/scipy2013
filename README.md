@@ -87,7 +87,11 @@ and Mayavi
 (automatic conversion of geometry classes to VTK,
 drawing continents,
 etc).
-
+In the future,
+we plan to continuously implement
+classic and state-of-the-art algorithms
+as well as sample problems
+to help teach geophysics.
 
 ## Author Bios
 

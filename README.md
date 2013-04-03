@@ -77,7 +77,8 @@ generic inverse problem solvers,
 unified geometry classes
 (prism meshes, polygons, etc),
 functions to automate
-plotting with Matplotlib
+repetitive plotting tasks with
+Matplotlib
 (automatic griding,
 simple GUIs,
 picking,
@@ -107,6 +108,16 @@ Fatiando a Terra
 as a way to test and explore
 things learned in the class room
 and scholarly articles.
+
+**Vanderlei C. Oliveira Jr**
+
+
+**Valéria C. F. Barbosa**
+is a researcher at
+the Observatorio Nacional, Brazil,
+working mainly on
+inverse problems
+in potential field methods.
 
 ## Submission References
 

@@ -2,6 +2,7 @@
 
 **Authors**:
 [Leonardo Uieda](http://fatiando.org/people/uieda),
+[Vanderlei C. Oliveira Jr](http://fatiando.org/people/oliveira-jr),
 Valéria C. F. Barbosa
 
 ## Summary
@@ -9,8 +10,8 @@ Valéria C. F. Barbosa
 Solid Earth geophysics
 is the science of
 using physical observations of the Earth
-to infer it's inner structure.
-This is done
+to infer its inner structure.
+Generally, this is done
 with a variety of
 numerical modeling techniques
 and inverse problems.
@@ -24,30 +25,51 @@ a modeling pipeline
 composed of various tools
 that don't communicate with each other
 (Fortran/C for computations,
-large complicated IO files,
+large complicated I/O files,
 Matlab/VTK for visualization, etc).
 Fatiando a Terra is
 a Python library that
 aims to unify the modeling pipeline
-inside of the powerful Python language
-and provide a framework
-to build upon
-existing algorithms.
+inside of the Python language.
 This allows users to replace
 the traditional shell scripting
-with more versatile Python scripting.
+with more versatile and powerful
+Python scripting.
 Together with
 the new IPython notebook,
-Fatiando a Terra facilitates
-reproducible computations
-by integrating all stages
-of the modeling process
-with the output figures.
-So far,
-the project has focused
+Fatiando a Terra can integrate
+all stages of
+the geophysical modeling process,
+like data pre-processing,
+inversion,
+statistical analysis,
+and visualization.
+However,
+the library can also
+be used for
+quickly developing stand-alone programs
+that can be integrated
+into existing pipelines.
+Plus,
+because functions
+inside Fatiando a Terra use
+a common data and mesh format
+existing algorithms
+can be combined
+and new ideas can
+build upon existing functionality.
+This flexibility facilitates
+reproducible computations,
+prototyping of new algorithms,
+and interactive teaching exercises.
+Although the project has
+so far focused
 on potential field methods
-(gravity and magnetics)
-but the library already contains:
+(gravity and magnetics),
+some numerical tools
+for other geophysical methods
+have been developed as well.
+The library already contains:
 fast implementations
 of forward modeling algorithms
 (using Numpy and Cython),
@@ -68,17 +90,28 @@ etc).
 
 ## Author Bios
 
-**Leonardo Uieda** has a Bachelor's and Master's degree in Geophysics. Has
-developed open-source software for geophysical modeling throughout his
-Bachelor's, Master's, and current PhD at the Observatorio Nacional, Brazil.
-In 2010, started the development of Fatiando a Terra as way to test and explore
-things learned in the class room or scholarly articles. Over time, it developed
-into the framework used for his Master's dissertation and practically all
-future work.
+**Leonardo Uieda**
+has a Bachelor's
+and Master's degree
+in Geophysics.
+Has developed
+open-source software
+for geophysical modeling
+throughout his Bachelor's,
+Master's,
+and current PhD
+at the Observatorio Nacional, Brazil.
+In 2010,
+started the development of
+Fatiando a Terra
+as a way to test and explore
+things learned in the class room
+and scholarly articles.
 
 ## Submission References
 
 * [Project website](http://fatiando.org)
+* [Documentation](http://fatiando.readthedocs.org)
 * [Source code on Github](https://github.com/leouieda/fatiando)
 * Slides and posters from the various talks I've given are
   [available at figshare](http://figshare.com/authors/Leonardo_Uieda/97471)

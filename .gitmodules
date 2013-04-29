@@ -4,3 +4,6 @@
 [submodule "nbconvert"]
 	path = nbconvert
 	url = git@github.com:leouieda/nbconvert.git
+[submodule "fatiando"]
+	path = fatiando
+	url = git@github.com:leouieda/fatiando.git

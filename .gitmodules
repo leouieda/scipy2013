@@ -1,0 +1,6 @@
+[submodule "scipy_proceedings"]
+	path = scipy_proceedings
+	url = git@github.com:leouieda/scipy_proceedings.git
+[submodule "nbconvert"]
+	path = nbconvert
+	url = git@github.com:leouieda/nbconvert.git

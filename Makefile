@@ -9,11 +9,12 @@ proceedings: $(PROCEEDINGS-PDF)
 $(PROCEEDINGS-PDF): $(PROCEEDINGS-RST)
 	cd scipy_proceedings; ./make_paper.sh papers/leonardo_uieda
 
-$(PROCEEDINGS-RST): authors.txt leonardo_uieda.ipynb
-	cat authors.txt > $(PROCEEDINGS-RST)
-	./nbconvert/nbconvert.py --exclude [1] --format rst leonardo_uieda.ipynb
-	cat leonardo_uieda.rst >> $(PROCEEDINGS-RST)
+$(PROCEEDINGS-RST): head.rst leonardo_uieda.ipynb
+	cat $< > $(PROCEEDINGS-RST)
+	./nbconvert/nbconvert.py --format rst leonardo_uieda.ipynb
+	tail -n +13 leonardo_uieda.rst >> $(PROCEEDINGS-RST)
 	rm leonardo_uieda.rst
+	cp *.png scipy_proceedings/papers/leonardo_uieda
 
 spellcheck:
 	aspell check README.md
@@ -24,4 +25,5 @@ README.html: README.md
 	pandoc $< -f markdown -t html -o $@
 
 clean:
-	rm -rf README.html *.bak $(PROCEEDINGS-PDF) $(PROCEEDINGS-RST)
+	rm -rf README.html *.bak $(PROCEEDINGS-PDF) $(PROCEEDINGS-RST) \
+	leonardo_uieda_files *.png

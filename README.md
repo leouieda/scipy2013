@@ -3,7 +3,7 @@
 **Authors**:
 [Leonardo Uieda](http://fatiando.org/people/uieda),
 [Vanderlei C. Oliveira Jr](http://fatiando.org/people/oliveira-jr),
-Valéria C. F. Barbosa
+[Valéria C. F. Barbosa](http://lattes.cnpq.br/0391036221142471)
 
 ## Summary
 

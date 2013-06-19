@@ -1,5 +1,5 @@
 show: modeling_the_earth_with_fatiando_a_terra.reveal.html
-	chromium-browser http://localhost:8000/modeling_the_earth_with_fatiando_a_terra.reveal.html?theme=night?transition=none &
+	google-chrome http://localhost:8000/modeling_the_earth_with_fatiando_a_terra.reveal.html?theme=night?transition=none &
 	python -m SimpleHTTPServer 8000
 
 slides: modeling_the_earth_with_fatiando_a_terra.reveal.html

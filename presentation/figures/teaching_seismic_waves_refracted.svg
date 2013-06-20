@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="teaching_seismic_waves.svg"
+   sodipodi:docname="teaching_seismic_waves_refracted.svg"
    inkscape:export-filename="/home/leo/pub/scipy2013/presentation/figures/teaching_seismic_waves.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
@@ -308,17 +308,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="374.84977"
-     inkscape:cy="253.86455"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="155.58029"
+     inkscape:cy="250.32496"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-width="683"
+     inkscape:window-height="716"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -462,6 +462,17 @@
          y="395.87579">mantle<tspan
    id="tspan4008"
    style="font-size:22.48248482px;fill:#000000" /></tspan></text>
+    <path
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:url(#Arrow1Mstart)"
+       d="M 683.22947,175.47847 623.0361,209.4436 562.84274,243.40873"
+       id="path3072"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 226.30057,175.05678 112.97167,66.84276"
+       id="path3060"
+       inkscape:connector-curvature="0" />
     <g
        id="g4085"
        transform="matrix(1.0917282,0,0,0.95659644,98.077793,-25.190764)">
@@ -506,6 +517,18 @@
        id="path3014-2-9-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 339.09319,242.22918 225.11453,1.12848"
+       id="path3060-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:url(#Arrow1Mstart)"
+       d="M 426.30387,377.50654 382.63048,310.34683 338.9571,243.18711"
+       id="path3072-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
        style="font-size:24.06855583px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -573,5 +596,24 @@
          id="tspan3906-7-3"
          x="367.61804"
          y="-26.767658">seismogram</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-6)"
+       d="m 252.01521,15.555194 16.16244,29.294424"
+       id="path4369-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40.87724686px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="183.61841"
+       y="6.7950821"
+       id="text3904-7-4-6-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0682992,0.93606734)"><tspan
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Sans;-inkscape-font-specification:Sans"
+         sodipodi:role="line"
+         id="tspan3906-7-3-9-6"
+         x="183.61841"
+         y="6.7950821">refracted</tspan></text>
   </g>
 </svg>

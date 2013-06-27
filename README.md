@@ -5,6 +5,9 @@
 [Vanderlei C. Oliveira Jr](http://fatiando.org/people/oliveira-jr),
 [Valéria C. F. Barbosa](http://lattes.cnpq.br/0391036221142471)
 
+**Slides**: You can view the slides for the presentation in HTML [here](http://leouieda.github.io/scipy2013/?theme=night#/).
+Just use the keyboard arrow keys to navigate.
+
 ## Summary
 
 Solid Earth geophysics

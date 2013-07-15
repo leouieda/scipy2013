@@ -8,6 +8,12 @@
 **Slides**: You can view the slides for the presentation in HTML [here](http://leouieda.github.io/scipy2013/?theme=night#/).
 Just use the keyboard arrow keys to navigate.
 
+**Video**: Watch the talk on [YouTube](http://www.youtube.com/embed/Ec38h1oB8cc)!
+
+**Proceedings**: Download a [preprint](http://www.fatiando.org/papers/Uieda,OliveiraJr,Barbosa_2013.pdf)
+of the proceedings while we wait for them to be published.
+
+
 ## Summary
 
 Solid Earth geophysics

@@ -13,6 +13,9 @@ Just use the keyboard arrow keys to navigate.
 **Proceedings**: Download a [preprint](http://www.fatiando.org/papers/Uieda,OliveiraJr,Barbosa_2013.pdf)
 of the proceedings while we wait for them to be published.
 
+**Code samples**: Code to reproduce all figures in the proceedings is available as an IPython notebook 
+[on figshare](http://dx.doi.org/10.6084/m9.figshare.708390). A rendered version is 
+[on nbviewer](http://nbviewer.ipython.org/url/files.figshare.com/1073067/code_samples.ipynb). 
 
 ## Summary
 

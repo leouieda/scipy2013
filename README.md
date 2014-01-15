@@ -1,23 +1,31 @@
+**Slides**: You can view the slides for the presentation in HTML
+[here](http://leouieda.github.io/scipy2013/?theme=night#/).
+Just use the keyboard arrow keys to navigate.
+
+**Video**: Watch the talk on [YouTube](http://www.youtube.com/embed/Ec38h1oB8cc)!
+
+**Proceedings**: Download them at the
+[official conference site](http://conference.scipy.org/proceedings/scipy2013/uieda.html)
+
+**Code samples**: Code to reproduce all figures in the proceedings is available
+as an IPython notebook on figshare
+[doi:10.6084/m9.figshare.708390](http://dx.doi.org/10.6084/m9.figshare.708390).
+A rendered version is also
+[on nbviewer](http://nbviewer.ipython.org/url/files.figshare.com/1073067/code_samples.ipynb).
+
+**Citation:**
+
+Uieda, L., V. C. Oliveira Jr, and V. C. F. Barbosa (2013), Modeling the Earth
+with Fatiando a Terra, in Proceedings of the 12th Python in Science Conference,
+pp. 91-98.
+
+
 # Modeling the Earth with Fatiando a Terra
 
 **Authors**:
 [Leonardo Uieda](http://fatiando.org/people/uieda),
 [Vanderlei C. Oliveira Jr](http://fatiando.org/people/oliveira-jr),
 [Valéria C. F. Barbosa](http://lattes.cnpq.br/0391036221142471)
-
-**Slides**: You can view the slides for the presentation in HTML [here](http://leouieda.github.io/scipy2013/?theme=night#/).
-Just use the keyboard arrow keys to navigate.
-
-**Video**: Watch the talk on [YouTube](http://www.youtube.com/embed/Ec38h1oB8cc)!
-
-**Proceedings**: Download a [preprint](http://www.fatiando.org/papers/Uieda,OliveiraJr,Barbosa_2013.pdf)
-of the proceedings while we wait for them to be published.
-
-**Code samples**: Code to reproduce all figures in the proceedings is available as an IPython notebook 
-[on figshare](http://dx.doi.org/10.6084/m9.figshare.708390). A rendered version is 
-[on nbviewer](http://nbviewer.ipython.org/url/files.figshare.com/1073067/code_samples.ipynb). 
-
-## Summary
 
 Solid Earth geophysics
 is the science of
